@@ -1,0 +1,1 @@
+lt-proc -w '/home/eugenia/apertium-rus-olr/olr-rus.automorf-untrimmed.bin' | cg-proc -w -t -t '/home/eugenia/apertium-rus-olr/olr-rus.rlx.bin'

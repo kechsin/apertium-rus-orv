@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+   <alphabet/>
+   <sdefs>
+     <sdef n="n"/>
+     <sdef n="sg"/>
+     <sdef n="pl"/>
+   </sdefs>
+
+   <section id="main" type="standard">
+     <e><p><l>яблоня<s n="n"/></l><r>аблань<s n="n"/></r></p></e>
+     <e><p><l>яблоко<s n="n"/></l><r>аблъко<s n="n"/></r></p></e>
+     <e><p><l>давать<s n="v"/></l><r>дати<s n="v"/></r></p></e>
+   </section>
+</dictionary>

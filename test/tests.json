@@ -1,0 +1,10 @@
+{
+    "rus-olr": {
+        "input": "rus-olr-input.txt",
+        "mode": "rus-olr"
+    },
+    "olr-rus": {
+        "input": "olr-rus-input.txt",
+        "mode": "olr-rus"
+    }
+}

@@ -1,0 +1,1 @@
+lt-proc -w '/home/eugenia/apertium-rus-olr/olr-rus.automorf-untrimmed.bin' | cg-proc -w '/home/eugenia/apertium-rus-olr/olr-rus.rlx.bin' | apertium-tagger -g $2 '/home/eugenia/apertium-rus-olr/olr-rus.prob'

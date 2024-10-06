@@ -1,0 +1,1 @@
+lt-proc -w '/home/eugenia/apertium-rus-olr/rus-olr.automorf.bin' | cg-proc -w '/home/eugenia/apertium-rus-olr/rus-olr.rlx.bin' | apertium-tagger -g $2 '/home/eugenia/apertium-rus-olr/rus-olr.prob' | apertium-pretransfer | lt-proc -b '/home/eugenia/apertium-rus-olr/rus-olr.autobil.bin'
